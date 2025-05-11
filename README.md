@@ -19,7 +19,8 @@ A Card game totally __Surreal__ and __created 2 day__ for all aspect
 ### End of Round
 ![Main Menu](img4.jpg)
 ---
-
+  
 The game created in __48 hours__ for local Game Jam(Yıldız Jam).  
-All aspect created from me, Thanks for ***Yusuf***; Start, End screen and draw sound. :D 
+(Postprocessing V2 package used for game)  
+## All aspect created from me, Thanks for ***Yusuf***; Start, End screen and draw sound. :D 
 
