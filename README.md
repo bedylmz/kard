@@ -1,2 +1,2 @@
-# kard
+# Kard
 A Surreal Kard Game
