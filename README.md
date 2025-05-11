@@ -1,6 +1,7 @@
 # Kard
 A Surreal Kard Game,  
-A Card game totally __Surreal__ and __created 2 day__ for all aspect
+A Card game totally __Surreal__ and __created 2 day__ for all aspect  
+[Itch.io Store page](https://bedylmaz.itch.io/kard)
 
 ## Rules and Gameplay
 - Every round you can play 5 card
